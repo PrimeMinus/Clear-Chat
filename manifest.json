@@ -1,0 +1,89 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Change how transparent your chat is\n§oCreated by PrimeMinus§r",
+		"name": "Clear Chat",
+		"uuid": "57e955e7-dd4d-4062-a0d1-fa1a4db1d694",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 13, 0]
+	},
+	"modules": [
+		{
+			"description": "Change how transparent your chat is\n§oCreated by PrimeMinus§r",
+			"type": "resources",
+			"uuid": "2adde3a8-323b-4acd-8c81-4dec38419580",
+			"version": [1, 0, 0]
+		}
+	],
+	"settings": [
+		{
+			"type": "label",
+			"text": "Select how transparent you want the black background behind the chat to be."
+		}
+	],
+	"metadata": {
+		"authors": [
+			"PrimeMinus"
+		]
+	},
+	"subpacks": [
+		{
+			"folder_name": "100",
+			"name": "Transparency: 0%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "90",
+			"name": "Transparency: 10%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "80",
+			"name": "Transparency: 20%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "70",
+			"name": "Transparency: 30%% (Default)",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "60",
+			"name": "Transparency: 40%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "50",
+			"name": "Transparency: 50%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "40",
+			"name": "Transparency: 60%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "30",
+			"name": "Transparency: 70%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "20",
+			"name": "Transparency: 80%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "10",
+			"name": "Transparency: 90%%",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "0",
+			"name": "Transparency: 100%% (No background)",
+			"memory_tier": 1
+		}
+	]
+}
+
+
+
